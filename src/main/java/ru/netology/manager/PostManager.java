@@ -10,6 +10,6 @@ public class PostManager {
     }
 
     public void deletePost(int ownerId, int postId) {
-
+    //add logic
     }
 }
